@@ -1,0 +1,1 @@
+# This is a sample file to teach you how to use git
